@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonScraperDemo.Web", "AmazonScraperDemo.Web\AmazonScraperDemo.Web.csproj", "{2CC48668-613A-49F0-A9BA-BA05847ACCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonScraperDemo.Scraping", "AmazonScraperDemo.Scraping\AmazonScraperDemo.Scraping.csproj", "{D80A339D-F94F-4065-A138-25716EA2886B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC48668-613A-49F0-A9BA-BA05847ACCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC48668-613A-49F0-A9BA-BA05847ACCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC48668-613A-49F0-A9BA-BA05847ACCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC48668-613A-49F0-A9BA-BA05847ACCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80A339D-F94F-4065-A138-25716EA2886B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80A339D-F94F-4065-A138-25716EA2886B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80A339D-F94F-4065-A138-25716EA2886B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80A339D-F94F-4065-A138-25716EA2886B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD03EB91-4F7B-490E-AF09-18455A633A3A}
+	EndGlobalSection
+EndGlobal
